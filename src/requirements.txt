@@ -1,0 +1,21 @@
+'''Note: these are the dependencies used for this project'''
+'''from __future__ import annotations
+
+import argparse
+import copy
+import time
+from pathlib import Path
+
+import numpy as np
+import torch
+from sklearn.metrics import (
+    accuracy_score,
+    confusion_matrix,
+    f1_score,
+    precision_score,
+    recall_score,
+)
+from torch import nn
+from torch.utils.data import DataLoader, TensorDataset
+'''
+Run all of this to run the model 
